@@ -6,7 +6,7 @@ float(y)
 complex(real[image])
 str(y)
 tuple(y)
-list(y)
+list[y]
 set(y)
 dict(y)
 ord(y)
